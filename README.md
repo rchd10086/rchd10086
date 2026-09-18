@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an undergraduate student from China. Currently learning CS myself. Depending on AI to produce useful codes.
+
 <!--
 **rchd10086/rchd10086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
